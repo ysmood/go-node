@@ -1,0 +1,1 @@
+Use multi-stage to create an image for golang and nodejs
